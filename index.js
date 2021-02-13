@@ -3,11 +3,15 @@ import Main from "./Main";
 const site = "aukamicreations";
 
 const keywords = [
-  'modern wolf'
+  'byo',
+  'build your own',
+  'buildyourown',
+  'build',
+  'custom',
 ];
 
 const blacklist = [
-
+  'poster'
 ];
 
 const proxies = [
